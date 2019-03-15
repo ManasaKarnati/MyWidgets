@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyWidgets</string>
+    <string-array name="listItems">
+        <item>MANASA</item>
+        <item>DIVYA</item>
+        <item>PUJITHA</item>
+        <item>SRUTHI</item>
+        <item>HIMAJA</item>
+
+    </string-array>
+</resources>
